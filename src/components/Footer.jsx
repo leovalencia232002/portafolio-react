@@ -15,7 +15,7 @@ const Footer = () => {
             <FaInstagram size={20} />
           </a>
           <a
-            href="https://twitter.com/"
+            href="https://x.com/Leonard13118041?t=a1wi71p8wr5M7qtLPAsK_Q&s=09"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-white text-blue-400 hover:bg-blue-100 rounded-full p-3 shadow-md transition-transform transform hover:scale-110"
@@ -23,7 +23,7 @@ const Footer = () => {
             <FaTwitter size={20} />
           </a>
           <a
-            href="https://facebook.com/"
+            href="https://www.facebook.com/share/1AXYkdApUE/"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-white text-blue-600 hover:bg-blue-100 rounded-full p-3 shadow-md transition-transform transform hover:scale-110"
@@ -31,7 +31,7 @@ const Footer = () => {
             <FaFacebook size={20} />
           </a>
           <a
-            href="https://linkedin.com/in/leo-valencia0803"
+            href="https://www.linkedin.com/in/david-valencia-80980736b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-white text-blue-700 hover:bg-blue-100 rounded-full p-3 shadow-md transition-transform transform hover:scale-110"
